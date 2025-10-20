@@ -81,7 +81,6 @@ An AI-powered documentation generator that parses code, commit history, and arch
 **File:**  
 - [`ai_docgen_proposal.pdf`](./ai_docgen_proposal.pdf): 1-page proposal outlining purpose, workflow, and impact.
 
-
 ---
 
 ## Submission Links
