@@ -24,7 +24,7 @@ GitHub Copilot generated a concise, well-documented function using Python’s bu
 Use Testim.io or Selenium IDE with AI plugins to automate login page testing for valid and invalid credentials.
 
 **Files:**
-- `login_test_selenium.py`: Automated test script using Selenium WebDriver.
+- `login_test.py`: Automated test script using Selenium WebDriver.
 - `login.html`: Mock login page used for testing.
 - `screenshots/`: Folder containing test result screenshots.
 
@@ -78,8 +78,9 @@ A Random Forest model was trained to classify issue priority based on labeled da
 **Proposal:**  
 An AI-powered documentation generator that parses code, commit history, and architecture diagrams to produce clean, updated technical documentation.
 
-**File:**
-- `ai_docgen_proposal.pdf`: 1-page proposal outlining purpose, workflow, and impact.
+**File:**  
+- [`ai_docgen_proposal.pdf`](./ai_docgen_proposal.pdf): 1-page proposal outlining purpose, workflow, and impact.
+
 
 ---
 
