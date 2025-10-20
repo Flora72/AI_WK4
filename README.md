@@ -1,4 +1,3 @@
-```markdown
 # Practical Implementation – AI in Software Engineering Assignment
 
 This repository contains the practical deliverables for Week 4's assignment on **"Building Intelligent Software Solutions"**. It showcases how AI can automate coding tasks, enhance testing, and support predictive analytics in software engineering.
